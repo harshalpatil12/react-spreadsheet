@@ -2,6 +2,9 @@
 
 A simple and functional spreadsheet application built using React. It features editable cells, basic formula evaluation (like `SUM` and `AVERAGE`), and supports copy-paste, formatting, and dynamic rows/columns.
 
+## Demo Link
+https://react-spreadsheet-eight.vercel.app/
+
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project locally.
